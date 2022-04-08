@@ -1,16 +1,19 @@
 ### Hi there 👋
+## <h2> Bem Vindo ao meu git :)) <h2>
+### <h2> Me chamo Rafael Soares<h2>
+#### <h3>Sou Dev Full Stack e Python lover<h3>
 
-<!--
-**rafasor/rafasor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img src ="https://github-readme-stats.vercel.app/api?username=rafasor&show_icons=true&theme=radical">
+</div>
 
-Here are some ideas to get you started:
+<div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafasor&layout=compact">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+<div>
+<a href="https://www.linkedin.com/in/rafael-soares-martins-330b8b1a1/">
+    <img height = "80em" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    </a>
+</div>
