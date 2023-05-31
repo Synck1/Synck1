@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## <h2> Bem Vindo ao meu git :)) <h2>
 ### <h2> Me chamo Rafael Soares<h2>
-#### <h3>Sou Dev Full Stack e Python lover<h3>
+#### <h3>Sou Pentester e de vez em quando brinco com uns scripts por aí<h3>
 
 <div>
 <img src ="https://github-readme-stats.vercel.app/api?username=rafasor&show_icons=true&theme=radical">
