@@ -29,9 +29,7 @@ synck
 ┌──(synck㉿redteam)-[~]
 └─$ info
 
-🐙 GitHub: github.com/Synck1
-🕵️ HackerOne: hackerone.com/synck
-👔 LinkedIn: linkedin.com/in/rafael-soares-martins-330b8b1a1/
+Passionate about technology and hacking since a young age, I found my focus in cybersecurity. Specialized in ethical hacking, penetration testing, and red team operations, I am constantly evolving to face current challenges. My goal is to contribute to a safer and more innovative digital world. Connect with me to interact!
 
 ┌──(synck㉿redteam)-[~]
 └─$ interests
