@@ -1,4 +1,4 @@
-![Logo](images/logo.png)
+![Logo](image.png)
 
 <h1 align="center">
    Synck | Red Team | Bug Bounty Hunter
