@@ -29,7 +29,9 @@ synck
 ┌──(synck㉿redteam)-[~]
 └─$ info
 
-Passionate about technology and hacking since a young age, I found my focus in cybersecurity. Specialized in ethical hacking, penetration testing, and red team operations, I am constantly evolving to face current challenges. My goal is to contribute to a safer and more innovative digital world. Connect with me to interact!
+Passionate about technology and hacking since a young age, I found my focus in cybersecurity.
+Specialized in ethical hacking, penetration testing, and red team operations, I am constantly evolving to face current challenges.
+My goal is to contribute to a safer and more innovative digital world. Connect with me to interact!
 
 ┌──(synck㉿redteam)-[~]
 └─$ interests
