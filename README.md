@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="300"/>
+  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="350"/>
 </p>
 
-<h1 align="center">
+<h1 align="center" width="100"/>
   Red Team | Bug Bounty Hunter | DevSecOps
 </h1>
 
@@ -82,10 +82,6 @@ python | bash | go | c | sql | javascript
 ```
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="300">
-</p>
 
 <p align="center">
   <b>Stay curious. Stay sharp. Keep hacking.</b>
