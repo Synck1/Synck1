@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="image.png" alt="Logo" width="100"/>
+  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="100"/>
 </p>
 
 <h1 align="center">
-  Synck | Red Team | Bug Bounty Hunter
+  Red Team | Bug Bounty Hunter | DevSecOps
 </h1>
 
 
