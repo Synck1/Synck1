@@ -2,9 +2,8 @@
 <h1 align="center">
     🕶️ Synck | Red Team | Bug Bounty Hunter
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Red Team Enginer+%F0%9F%9A%A9;Bug+Bounty+Hunter+%F0%9F%91%80;Red+Team+Ops+%F0%9F%94%96;DevSecOps+Lover+%F0%9F%91%BB;Never+Stop+Hacking...&center=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Red-Team-Enginer+%F0%9F%9A%A9;Bug+Bounty+Hunter+%F0%9F%91%80;Red+Team+Ops+%F0%9F%94%96;DevSecOps+Lover+%F0%9F%91%BB;Never+Stop+Hacking...&center=true&size=22&color=FF0000" />
 </p>
 
 ---
