@@ -6,7 +6,7 @@
   Red Team | Bug Bounty Hunter | DevSecOps
 </h2>
 
-<p align="center" style="margin-top: 4px;">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Red-Team-Engineer+%F0%9F%9A%A9;Bug+Bounty+Hunter+%F0%9F%91%80;Red+Team+Ops+%F0%9F%94%96;DevSecOps+Lover+%F0%9F%91%BB;Never+Stop+Hacking...&center=true&size=28&color=FF0000" width="400" />
 </p>
 
