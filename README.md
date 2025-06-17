@@ -1,6 +1,7 @@
+![Logo](images/logo.png)
 
 <h1 align="center">
-   ![Logo](image.png) Synck | Red Team | Bug Bounty Hunter
+   Synck | Red Team | Bug Bounty Hunter
 </h1>
 
 <p align="center">
