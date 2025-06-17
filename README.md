@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="image.png" alt="Logo" width="200"/>
+  <img src="image.png" alt="Logo" width="100"/>
 </p>
 
 <h1 align="center">
-   💀 Synck | Red Team | Bug Bounty Hunter
+  Synck | Red Team | Bug Bounty Hunter
 </h1>
 
 
