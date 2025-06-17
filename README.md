@@ -29,9 +29,8 @@ Synck
 ## ⚙️ Tech Arsenal
 
 ```bash
-# Tools of the Trade
-nmap | burpsuite | metasploit | wireshark | gobuster | sqlmap
-hydra | ghidra | radare2 | impacket | ffuf | amass | subfinder
+# My Tool
+smartrecon 👉 github.com/Synck1/smartrecon
 ```
 
 ```bash
