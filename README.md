@@ -1,40 +1,48 @@
 
 <h1 align="center">
-    🐞 Synck | Red Team | DevSecOps
+    💀 Synck | Red Team | Bug Bounty Hunter
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Red-Team-Enginer+%F0%9F%9A%A9;Bug+Bounty+Hunter+%F0%9F%91%80;Red+Team+Ops+%F0%9F%94%96;DevSecOps+Lover+%F0%9F%91%BB;Never+Stop+Hacking...&center=true&size=22&color=FF0000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Red-Team-Engineer+%F0%9F%9A%A9;Bug+Bounty+Hunter+%F0%9F%91%80;Red+Team+Ops+%F0%9F%94%96;DevSecOps+Lover+%F0%9F%91%BB;Never+Stop+Hacking...&center=true&size=22&color=FF0000" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```bash
-# whoami
-Synck
+```
+┌──(synck㉿redteam)-[~]
+└─$ whoami
+synck
 
-# info
-- 🐙 GitHub: github.com/Synck1
-- 🕵️ HackerOne: hackerone.com/synck
-- 👔 LinkedIn: linkedin.com/in/rafael-soares-martins-330b8b1a1/
+┌──(synck㉿redteam)-[~]
+└─$ info
 
-# interests
-- Offensive Security | Pentest | Bug Bounty | DevSecOps | Reverse Engineering
+🐙 GitHub: github.com/Synck1
+🕵️ HackerOne: hackerone.com/synck
+👔 LinkedIn: linkedin.com/in/rafael-soares-martins-330b8b1a1/
+
+┌──(synck㉿redteam)-[~]
+└─$ interests
+
+Offensive Security | Pentest | Bug Bounty | DevSecOps | Reverse Engineering
 ```
 
 ---
 
 ## ⚙️ Tech Arsenal
 
-```bash
-# My Tool
-smartrecon 👉 github.com/Synck1/smartrecon
 ```
+┌──(synck㉿redteam)-[~]
+└─$ tools
 
-```bash
-# Languages
+🔧 Tools of the Trade:
+nmap | burpsuite | metasploit | wireshark | gobuster | sqlmap
+hydra | ghidra | radare2 | impacket | ffuf | amass | subfinder
+smartrecon 👉 github.com/Synck1/smartrecon
+
+💻 Languages:
 python | bash | go | c | sql | javascript
 ```
 
