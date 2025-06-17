@@ -1,7 +1,6 @@
 
 <h1 align="center">
-   ![image](https://github.com/user-attachments/assets/e37157c6-87d2-4448-8324-24918750cab7)
- Synck | Red Team | Bug Bounty Hunter
+   ![image](https://github.com/user-attachments/assets/e37157c6-87d2-4448-8324-24918750cab7) Synck | Red Team | Bug Bounty Hunter
 </h1>
 
 <p align="center">
