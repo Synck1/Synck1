@@ -51,18 +51,8 @@ Offensive Security | Pentest | Bug Bounty | DevSecOps | Reverse Engineering
 smartrecon 👉 github.com/Synck1/smartrecon
 
 💻 Languages:
-python | bash | go | c | sql | javascript
+python | bash | go | JavaScript 
 ```
-
----
-
-## 💀 Terminal Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Synck1&show_icons=true&theme=radical&border_color=FF0000&icon_color=FF0000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synck1&layout=compact&theme=radical&border_color=FF0000" />
-</p>
-
 ---
 
 ## 🌐 Connect with me
