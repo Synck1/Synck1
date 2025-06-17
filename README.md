@@ -37,9 +37,7 @@ Offensive Security | Pentest | Bug Bounty | DevSecOps | Reverse Engineering
 ┌──(synck㉿redteam)-[~]
 └─$ tools
 
-🔧 Tools of the Trade:
-nmap | burpsuite | metasploit | wireshark | gobuster | sqlmap
-hydra | ghidra | radare2 | impacket | ffuf | amass | subfinder
+🔧 My tool
 smartrecon 👉 github.com/Synck1/smartrecon
 
 💻 Languages:
