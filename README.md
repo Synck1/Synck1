@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   ![image]) Synck | Red Team | Bug Bounty Hunter
+   ![Logo](image.png) Synck | Red Team | Bug Bounty Hunter
 </h1>
 
 <p align="center">
