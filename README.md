@@ -2,14 +2,13 @@
   <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="500"/>
 </p>
 
-<h2 align="center" style="font-weight: bold;">
+<h2 align="center" style="margin-bottom: 0; font-weight: bold;">
   Red Team | Bug Bounty Hunter | DevSecOps
 </h2>
 
-<p align="center">
+<p align="center" style="margin-top: 4px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Red-Team-Engineer+%F0%9F%9A%A9;Bug+Bounty+Hunter+%F0%9F%91%80;Red+Team+Ops+%F0%9F%94%96;DevSecOps+Lover+%F0%9F%91%BB;Never+Stop+Hacking...&center=true&size=28&color=FF0000" width="400" />
 </p>
-
 
 ---
 
