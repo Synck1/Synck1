@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="500"/>
+  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="300"/>
 </p>
-
 <div align="center" style="line-height: 1;">
 
   <h2 style="margin: 0; font-weight: bold;">
