@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="100"/>
+  <img src="synck-logo.png-removebg-preview(1).png" alt="Logo" width="300"/>
 </p>
 
 <h1 align="center">
